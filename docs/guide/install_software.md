@@ -53,7 +53,7 @@ If it bothers you to leave your password unencrypted, you may change the [conten
 * Save this file to the root of __boot__ partition with the filename `wpa_supplicant.conf`. On first boot, this file will be moved to `/etc/wpa_supplicant/wpa_supplicant.conf` where it may be edited later.
 
 ##### Setup Pi's Hostname
-We can also setup the hostname so that your Pi easier to find once on the network. If yours is the only Pi on the network, then you can find it with 
+We can also setup the hostname so that your Pi is easier to find once on the network. If yours is the only Pi on the network, then you can find it with 
 
 ```
 ping d2.local
